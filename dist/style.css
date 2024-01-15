@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  gap: 64px;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width:56rem;
+  position: absolute;
+}
+
+#words {
+  margin: 200px;
+  position:absolute;
+  color: aliceblue;
+}
